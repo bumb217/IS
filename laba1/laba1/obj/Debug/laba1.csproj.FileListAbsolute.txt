@@ -1,0 +1,7 @@
+C:\Users\bumb2\Desktop\Study\IS\Новая папка\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\bumb2\Desktop\Study\IS\Новая папка\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\bumb2\Desktop\Study\IS\Новая папка\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\bumb2\Desktop\Study\IS\Новая папка\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+C:\Users\bumb2\Desktop\Study\IS\Новая папка\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\bumb2\Desktop\Study\IS\Новая папка\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\bumb2\Desktop\Study\IS\Новая папка\laba1\laba1\obj\Debug\laba1.pdb

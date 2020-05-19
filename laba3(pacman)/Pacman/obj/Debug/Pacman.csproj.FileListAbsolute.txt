@@ -1,0 +1,15 @@
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\bin\Debug\Pacman.exe
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\bin\Debug\Pacman.pdb
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\bin\Debug\nunit.framework.dll
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\bin\Debug\WPFMediaKit.dll
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\bin\Debug\nunit.framework.pdb
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\bin\Debug\nunit.framework.xml
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\obj\Debug\Pacman.csprojAssemblyReference.cache
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\obj\Debug\Pacman.csproj.CopyComplete
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\obj\Debug\Pacman.exe
+C:\Users\bumb2\Desktop\Study\IS\lab_Evhenyi_Petrenko_IntelectSystems-master\lab3_pacman-master\Pacman\obj\Debug\Pacman.pdb
